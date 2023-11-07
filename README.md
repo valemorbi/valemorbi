@@ -1,4 +1,7 @@
 ### Hola 👋, mi nombre es Valentin
+<hr>
 
-[![Readme.png](https://i.postimg.cc/FHNkR30X/Readme.png)](https://postimg.cc/BX7n78hm)
+<p align="center">
+  <img src="https://i.postimg.cc/FHNkR30X/Readme.png">
+</p>
 
